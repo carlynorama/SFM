@@ -1,0 +1,15 @@
+16 solenoids, 8 ultrasound sensors, 3 Arduinos, lots of microphones, amp circuits, speakers, LED's, BlinkM's/MaxM's as well as a custom MAX/MSP software "Patch" (similar to Pure Data) created technical scaffolding for the piece.  Beer bottles, coat hangers, flower pots, heat sinks, an old guitar and other found objects fleshed out the sound-scape.   Chalk sidewalk drawings were the GUI. Both kids and adults loved dancing in front of the building, triggering the instrument.
+
+We had a great time working on that project and wanted to have a portable version to take on the road to places like Maker Faire. Later this month it will be seen at Twenty Wonder and Create:Fixate. 
+
+Our smaller version has 8 solenoids, 4 IR sensors, 2 Arduino’s, 2 Xbees (so the sensor bar can go remote) and a PC running a Processing sketch.  Flowerpots, a coffee can and two drink bottles are the instruments. 
+
+This write up will show how to make a stand alone version of the flower pot portion of the instrument. It covers
+
+The flower pot bells
+
+The thwackers
+
+The solenoid circuit 
+
+The Arduino code to drive it
